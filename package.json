@@ -1,0 +1,21 @@
+{
+  "name": "matrix-palette-rainbow",
+  "displayName": "Matrix-Palette-Rainbow",
+  "description": "A suitable color theme for VSCode  inspired on the matrix color palette. In the movie there are symbols for each color and my intention is to bring that to this Theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matrix Palette Rainbow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Matrix Palette Rainbow-color-theme.json"
+      }
+    ]
+  }
+}
