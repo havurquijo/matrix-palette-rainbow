@@ -17,10 +17,10 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 {
 	"name": "Matrix Palette Rainbow",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#64d86b",
-		"activityBarBadge.background": "#6e7598",
-		"sideBarTitle.foreground": "#a4f644"
+		"editor.background": "#000f00",
+		"editor.foreground": "#52fe3f",
+		"activityBarBadge.background": "#000415",
+		"sideBarTitle.foreground": "#def7c1"
 	},
 	"tokenColors": [
 		{
@@ -71,7 +71,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#01b5fc"
 			}
 		},
 		{
@@ -102,7 +102,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#094198"
+				"foreground": "#365890"
 			}
 		},
 		{
@@ -150,7 +150,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#d0e326"
+				"foreground": "#beff3d"
 			}
 		},
 		{
@@ -165,7 +165,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#2c3dfa"
+				"foreground": "#82AAFF"
 			}
 		},
 		{
@@ -204,7 +204,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#e8a20c"
+				"foreground": "#f6be44"
 			}
 		},
 		{
@@ -235,7 +235,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFD700"
+				"foreground": "#ffe23e"
 			}
 		},
 		{
@@ -245,7 +245,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#FFD700"
+				"foreground": "#ffe23e"
 			}
 		},
 		{
